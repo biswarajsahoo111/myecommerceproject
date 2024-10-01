@@ -11,7 +11,7 @@ ecommerce-app
 
 
 
-├── backend
+├── backend........................
 
 │   ├── Dockerfile
 
@@ -22,7 +22,7 @@ ecommerce-app
 
 
 
-├── frontend
+├── frontend...........................
 
 │   ├── Dockerfile
 
@@ -36,7 +36,7 @@ ecommerce-app
 
 
 
-├── manifests
+├── manifests........................
 
 │   ├── backend-deployment.yaml
 
