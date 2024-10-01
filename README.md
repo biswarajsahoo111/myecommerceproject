@@ -215,6 +215,8 @@ kubectl port-forward <grafana-pod> 3000:3000
 kubectl port-forward <kibana-pod> 5601:5601
 
 
+
+
 Troubleshooting.................................
 
 
